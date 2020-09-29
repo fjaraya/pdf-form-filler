@@ -9,7 +9,7 @@ This is a very simple Qt4 project. It requires QJson and Poppler. In Debian:
 
 ```bash
 $ sudo aptitude install libqt4-dev libpoppler-qt4-dev libqjson-dev
-$ git clone https://github.com/ActivKonnect/pdf-form-filler.git
+$ git clone https://github.com/fjaraya/pdf-form-filler.git
 $ mkdir pdf-form-filler_build
 $ cd pdf-form-filler_buid
 $ qmake ../pdf-form-filler
